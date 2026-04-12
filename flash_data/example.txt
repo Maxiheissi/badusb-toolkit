@@ -1,0 +1,14 @@
+#----------------RICKROLL---------------------
+MOD r GUI
+WAIT 100
+msedge https://www.youtube.com/shorts/_6HzLIJPH2A
+RET
+
+WAIT 5000
+
+MOD r GUI
+WAIT 100
+edit
+RET
+WAIT 1000
+You got Rickrolled
