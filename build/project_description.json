@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "tusb_hid",
-    "project_version":    "1",
+    "project_version":    "03eb741-dirty",
     "project_path":       "C:/Users/max/OneDrive/projects/BadUSB",
     "idf_path":           "C:/Users/max/esp/v5.5.1/esp-idf",
     "build_dir":          "C:/Users/max/OneDrive/projects/BadUSB/build",
@@ -595,7 +595,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [ "espressif__esp_tinyusb", "joltwallet__littlefs" ],
             "file": "C:/Users/max/OneDrive/projects/BadUSB/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/Users/max/OneDrive/projects/BadUSB/main/tusb_hid_example_main.c" ],
+            "sources": [ "C:/Users/max/OneDrive/projects/BadUSB/main/badUSB_main.c" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {
