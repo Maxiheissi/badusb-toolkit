@@ -1,0 +1,21 @@
+# ESP-IDF build output
+build/
+
+# Generated SDK config files
+sdkconfig
+sdkconfig.old
+
+# Managed components (auto-downloaded by ESP-IDF)
+managed_components/
+
+# Test files
+pytest_usb_device_hid.py
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
