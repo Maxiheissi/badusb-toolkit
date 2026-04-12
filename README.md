@@ -74,19 +74,6 @@ Supported characters:
 
 ---
 
-## Project Structure
-
-```
-badusb-toolkit/
-├── main/
-│   └── main.c        # Main application logic
-├── CMakeLists.txt
-├── partitions.csv    # LittleFS partition table
-├── README.md
-└── LICENSE
-```
-
----
 
 ## Configuration
 
