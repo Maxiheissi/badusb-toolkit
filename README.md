@@ -92,4 +92,5 @@ Increase `DELTA_TIME` if the target machine misses key presses.
 ## Disclaimer
 
 This project is intended for **educational purposes and authorized security testing only**. Do not use this tool on systems you do not own or have explicit permission to test.
-This README was created by anthropics sonnet ai model
+
+This README was created by Anthropics Sonnet 4.6 AI model.
